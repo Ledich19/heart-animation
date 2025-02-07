@@ -391,8 +391,9 @@ function Animation1() {
               }}
               transition={{
                 d: {
-                  duration: 5,
+                  duration: 4,
                   ease: "easeInOut",
+                  delay: 1,
                 },
                 opacity: {
                   duration: 0, // Длительность исчезновения
