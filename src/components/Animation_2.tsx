@@ -353,7 +353,7 @@ function Animation1() {
       width: '100vw',
       height: '100vh',
       backgroundColor: '#ccc',
-      backgroundImage: 'url("depositphotos.jpg")',
+      backgroundImage: 'url("2867102.jpg")',
     }}>
 
       <svg
