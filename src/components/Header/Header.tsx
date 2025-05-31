@@ -15,7 +15,9 @@ const Header = () => {
         <Link to="animation_2">
           <h3>animation_2</h3>
         </Link>
-
+        <Link to="animation_3">
+          <h3>animation_3</h3>
+        </Link>
       </div>
 
 
